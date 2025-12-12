@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_py5_wxn_phc">
+    <title/>
+    <conbody>Example Concept: OneTru Data &amp; Analytics (Module)A short description of the OneTru
+        Data &amp; Analytics module.This concept explains the purpose of the OneTru data and
+        analytics module used in the TransUnion project.Key featuresFeatures include data ingestion,
+        transformation, model scoring and dashboards.</conbody>
+</concept>
