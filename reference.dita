@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<reference id="ref-git-commands"
+    xmlns="http://docs.oasis-open.org/dita/ns/architecture/1.3">
+    
+    <title>Common Git Commands for Tech Writers</title>
+    
+    <refbody>
+        <p>Useful git commands when working with documentation repositories.</p>
+        
+        <example>
+            <title>Commands</title>
+            
+            <cmdsynopsis>
+                <command>git checkout -b feature/oneTru-docs</command>
+            </cmdsynopsis>
+            
+            <cmdsynopsis>
+                <command>git add docs/your-topic.dita</command>
+            </cmdsynopsis>
+            
+            <cmdsynopsis>
+                <command>
+                    git commit -m "DOCS: add topic for OneTru data &amp; analytics (task/overview)"
+                </command>
+            </cmdsynopsis>
+            
+            <cmdsynopsis>
+                <command>git push --set-upstream origin feature/oneTru-docs</command>
+            </cmdsynopsis>
+            
+        </example>
+    </refbody>
+</reference>

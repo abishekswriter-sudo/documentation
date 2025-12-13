@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<task id="task-create-oxygen-file" xmlns="http://docs.oasis-open.org/dita/ns/architecture/1.3">
+    <title>Create an Oxygen DITA topic and commit to GitHub</title>
+    <shortdesc>Step-by-step task to create topic, validate, and push to Git.</shortdesc>
+    <taskbody>
+        <section>
+            <title>Steps</title>
+            <ol>
+                <li>Create file in Oxygen and save to repository folder.</li>
+                <li>Edit content and set unique IDs.</li>
+                <li>Validate XML using Oxygen's Validate option.</li>
+                <li>Commit and push to GitHub (see commands below).</li>
+            </ol>
+        </section>
+    </taskbody>
+</task>
